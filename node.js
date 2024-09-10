@@ -8,7 +8,7 @@ const perguntas = [
     {
         enunciado: "Qual é a principal causa das mudanças climáticas?",
         alternativas: [ Alternativa A: Desmatamento
-            Alternativa B: Atividades industriais
+            Alternativa B: Atividades industriais]
                       
             {
                 texto: "O desmatamento tem um impacto significativo nas mudanças climáticas, pois reduz a quantidade de árvores que podem absorver dióxido de carbono, um dos principais gases de efeito estufa. Além disso, a queima de árvores libera carbono armazenado, contribuindo ainda mais para o aquecimento global."
@@ -21,7 +21,7 @@ const perguntas = [
         ]
             enunciado: "As atividades industriais são uma das principais fontes de gases de efeito estufa, intensificando o aquecimento global",
             alternativas: [ Alternativa A: Usar sacolas de plástico descartáveis
-                Alternativa B: Optar por produtos com embalagens reutilizáveis          
+                Alternativa B: Optar por produtos com embalagens reutilizáveis]        
                 {
                     texto: "Usar sacolas de plástico descartáveis pode aumentar a quantidade de resíduos plásticos no meio ambiente. Embora convenientes, elas são frequentemente descartadas após um único uso e contribuem significativamente para a poluição marinha e terrestre.",
                     afirmacao: "Usar sacolas de plástico descartáveis pode aumentar a quantidade de resíduos plásticos no meio ambiente. Embora convenientes, elas são frequentemente descartadas após um único uso e contribuem significativamente para a poluição marinha e terrestre."
@@ -34,7 +34,7 @@ const perguntas = [
             {
                 enunciado: "Qual é um benefício da agricultura orgânica em comparação com a agricultura convencional?",
                 alternativas: [  vAlternativa A: Menor impacto ambiental
-                    Alternativa B: Maior uso de pesticidas         
+                    Alternativa B: Maior uso de pesticidas ]        
                     {
                         texto: "A agricultura orgânica geralmente tem um menor impacto ambiental em comparação com a agricultura convencional. Ela evita o uso de pesticidas e fertilizantes sintéticos, o que pode levar a uma melhor saúde do solo e menor contaminação da água.",
                         afirmacao: "A agricultura orgânica geralmente tem um menor impacto ambiental em comparação com a agricultura convencional. Ela evita o uso de pesticidas e fertilizantes sintéticos, o que pode levar a uma melhor saúde do solo e menor contaminação da água.."
